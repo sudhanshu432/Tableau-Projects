@@ -16,5 +16,6 @@ questions:
 3. Any location (shore) getting more earnings
 4. Relationship between price and reviews
 Create a storyboard with the insights also.
-StayCatin Dataset Link:-
+
+#### StayCatin Dataset Link:- https://docs.google.com/spreadsheets/d/1DJjooTNVL6lXqiiCowOqi6Js4rUBb2GSAyGHcdX1aY8/edit#gid=1154935988
 StayCatin.com Case Study
